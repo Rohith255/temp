@@ -1,0 +1,2 @@
+diff file
+new line added
